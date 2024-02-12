@@ -1,0 +1,4 @@
+repository "Ticket Hero@Obi1anzor075@cloud"
+  path "/"
+    br "/main"
+    co "/main"
